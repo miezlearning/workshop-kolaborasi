@@ -2,8 +2,6 @@
 
 ## Selamat Datang di Workshop Materi Kolaborasi!
 
-Halo semua! Terima kasih sudah bergabung di workshop ini. Di sini kita akan belajar bareng tentang Git & GitHub, mulai dari dasar sampai praktik kolaborasi langsung. Materi akan disampaikan secara santai, dan kalian bebas bertanya atau menambahkan penjelasan kapan saja (langsung masuk aja kalau suasana hening atau ada isyarat dari teman).
-
 ### Cara Kolaborasi
 
 1. **Clone repo ini:**
